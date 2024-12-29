@@ -4,3 +4,8 @@ div{
     color: darkgreen;
    padding:0;
 }
+
+p{
+    color: crimson;
+    font-size: small;
+}
